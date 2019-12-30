@@ -18,7 +18,7 @@
 
 - Open the terminal
 
-![Open Terminal](.\resources\open-terminal.png)
+![Open Terminal](https://github.com/quervernetzt/wcis/blob/master/VSCode_GettingStarted/resources/open-terminal.png)
 
 - Create a new solution
     - `dotnet new sln -n "vscodeintro"`
@@ -39,7 +39,7 @@
 - After a short time you are asked to add required assets -> click yes
     - This will add the following assets
 
-![Required Assets](.\resources\required-assets.png)
+![Required Assets](https://github.com/quervernetzt/wcis/blob/master/VSCode_GettingStarted/resources/required-assets.png)
 
 - Go to `tasks.json` and edit it like the following
 
@@ -127,7 +127,7 @@ Console.ReadKey();
 
 - Go to `Debug and Run`, select each project and run it
 
-![Debug](.\resources\debug.png)
+![Debug](https://github.com/quervernetzt/wcis/blob/master/VSCode_GettingStarted/resources/debug.png)
 
 
 # Add NuGet packages
